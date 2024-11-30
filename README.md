@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá! 👋 Sou Fábio Deves
 
-<!--
-**fabioeze/fabioeze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um entusiasta da tecnologia, atualmente cursando **Análise e Desenvolvimento de Sistemas** pela Descomplica. Trabalho como **Analista de Suporte**, onde utilizo diariamente **JavaScript, HTML, CSS e MySQL** para atender personalizações, criar relatórios e realizar ajustes no banco de dados.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Embora minha experiência profissional esteja focada no suporte técnico, estou constantemente aprimorando minhas habilidades de desenvolvimento, onde já desenvolvi automações em Python para facilitar a minha rotina e do meu time.
+
+🎯 **Objetivo:** Me especializar no desenvolvimento e expandir minhas contribuições para projetos mais robustos e desafiadores.
+
+## Vamos Conectar?
+
+📧 fabioeze0@gmail.com
+💼 https://www.linkedin.com/in/fabio-deves/
