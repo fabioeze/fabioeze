@@ -10,5 +10,5 @@ Sou um entusiasta da tecnologia, atualmente cursando **Análise e Desenvolviment
 
 ## Vamos Conectar?
 
-📧 fabioeze0@gmail.com
+📧 fabioeze0@gmail.com  
 💼 https://www.linkedin.com/in/fabio-deves/
